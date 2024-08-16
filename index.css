@@ -1509,7 +1509,7 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .generate-with-ai {
     font-size: 50px;
     line-height: 50px; 
@@ -1544,7 +1544,7 @@
     
   }
   .dot-link-landing-page{
-    width: 95%;
+    width: 100%;
     height: 600rem;
   }
   .dot-link-landing-page-item{
@@ -1566,7 +1566,7 @@
     top: 70.000rem;
   }
   .dot-link-landing-page-child3, .image-3-icon, .binary-matrix-of-red-ones-and-, .dot-link-landing-page-child2,.dot-link-landing-page-child4, .dot-link-landing-page-child1 {
-    width: 171%;
+    width: 180%;
   }
   .the-vision-of{
     font-size: 20px;
@@ -1584,7 +1584,7 @@
     
   }
   .rectangle-parent{
-    width: 171%;
+    width: 180%;
     top: 135.813rem
   }
   .group-child42 {
@@ -1702,11 +1702,11 @@
   }
   
   .roadmap{
-    left: 5rem;
+    left: 7rem;
     align-content: center;
   }
   .guiding-the-fusion{
-    left: 5rem;
+    left: 7rem;
     text-align: left;
   }
   .group-child3, .group-child4{
@@ -1719,7 +1719,11 @@
     text-align: left;
   }
   .group-child5, .group-child6, .group-child7, .group-child8{
-    width: 35.125rem;;
+    width: 32.125rem;;
+  }
+  .group-child1, .group-child2, .group-child3, .group-child4{
+    width: 30rem;
+
   }
 
 
