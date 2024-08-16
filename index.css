@@ -1544,7 +1544,7 @@
     
   }
   .dot-link-landing-page{
-    width: 95%;
+    width: 100%;
     height: 600rem;
   }
   .dot-link-landing-page-item{
@@ -1566,7 +1566,7 @@
     top: 70.000rem;
   }
   .dot-link-landing-page-child3, .image-3-icon, .binary-matrix-of-red-ones-and-, .dot-link-landing-page-child2,.dot-link-landing-page-child4, .dot-link-landing-page-child1 {
-    width: 171%;
+    width: 180%;
   }
   .the-vision-of{
     font-size: 20px;
@@ -1584,7 +1584,7 @@
     
   }
   .rectangle-parent{
-    width: 171%;
+    width: 180%;
     top: 135.813rem
   }
   .group-child42 {
@@ -1601,11 +1601,11 @@
   }
   .vector-group{
     top: 35.688rem;
-    left: 15.688rem;
+    left: 7.688rem;
   }
   .vector-parent1{
     top: 65.688rem;
-    left: 15.688rem;
+    left: 7.688rem;
   }
   .roadmap-parent{
     top: 480.5rem;
@@ -1616,19 +1616,22 @@
   }
   .group-div{
     top: 95.688rem;
-    left: 15.688rem;
+    left: 7.688rem;
   }
   .group-wrapper1{
     top: 125.688rem;
-    left: 15.688rem;
+    left: 7.688rem;
+  }
+  .group-frame{
+    left: 7.688rem;
   }
   .group-wrapper2{
     top: 155.688rem;
-    left: 15.688rem;
+    left: 7.688rem;
   }
   .dotlinks-ai-integration{
     top: 170.688rem ;
-    inline-size: 40rem;
+    inline-size: 30rem;
     left: 40px;
   }
   .popular-nfts-generated{
@@ -1699,11 +1702,11 @@
   }
   
   .roadmap{
-    left: 10rem;
+    left: 5rem;
     align-content: center;
   }
   .guiding-the-fusion{
-    left: 10rem;
+    left: 5rem;
     text-align: left;
   }
   .group-child3, .group-child4{
