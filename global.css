@@ -1,0 +1,31 @@
+body {
+  width: 180%;
+  margin: 0;
+  line-height: normal;
+  
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-zen-dots: "Zen Dots";
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+  --font-size-13xl: 2rem;
+  --font-size-5xl-6: 1.538rem;
+  --font-size-71xl: 5.625rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-crimson-100: #fd1640;
+  --color-crimson-200: rgba(253, 22, 64, 0.3);
+  --color-crimson-300: rgba(253, 22, 64, 0.25);
+
+  /* Paddings */
+  --padding-8xl: 1.687rem;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-223xl: 242px;
+}
